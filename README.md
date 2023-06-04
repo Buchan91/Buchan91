@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Buchan91
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Developement
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in Programming, Web Development, and Software Development. 
 - 💞️ I’m looking to collaborate on..
 - 📫 How to reach me ...Here
 
